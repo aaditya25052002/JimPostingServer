@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'jimposting'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A41BC92FB83D433E8C52AF4F61DC6DBC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7120D568D1624C7CAF5537A3487D0A96 }}
           package: .
